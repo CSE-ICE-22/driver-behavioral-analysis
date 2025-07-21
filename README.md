@@ -8,3 +8,7 @@ This project analyzes driver habits by collecting real-time data from a vehicle'
 - Real-time OBD-II data logging
 - Driving behavior classification using ML
 - Feedback for driver awareness
+
+### Timeline:
+#### Week 2 - 3:
+  - Requirement analysis - Identify the hardware required and which parameters to be used to give driver feedback on thier habits
