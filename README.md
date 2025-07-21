@@ -11,4 +11,6 @@ This project analyzes driver habits by collecting real-time data from a vehicle'
 
 ### Timeline:
 #### Week 2 - 3:
-  - Requirement analysis - Identify the hardware required and which parameters to be used to give driver feedback on thier habits
+  - Requirement analysis
+  - System architecture
+  - Technologies and tools
