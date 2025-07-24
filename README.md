@@ -11,6 +11,6 @@ This project analyzes driver habits by collecting real-time data from a vehicle'
 
 ### Timeline:
 #### Week 2 - 3:
-  - Requirement analysis
+  - OBD-II port analysis
   - System architecture
   - Technologies and tools
