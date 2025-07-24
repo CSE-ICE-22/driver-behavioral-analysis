@@ -10,7 +10,7 @@ This project analyzes driver habits by collecting real-time data from a vehicle'
 - Feedback for driver awareness
   
 #### Technologies and tools
-- OBD-II Scanner (ELM327 based)
+- OBD-II Scanner
 - Embedded system for data acquisition
 - Cloud platform for data storage and processing
 
