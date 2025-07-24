@@ -6,8 +6,13 @@ This project analyzes driver habits by collecting real-time data from a vehicle'
 
 #### Key Features:
 - Real-time OBD-II data logging
-- Driving behavior classification using ML
+- Driving behavior classification
 - Feedback for driver awareness
+  
+#### Technologies and tools
+- OBD-II Scanner (ELM327 based)
+- Embedded system for data acquisition
+- Cloud platform for data storage and processing
 
 ### Timeline:
 #### Week 2 - 3:
